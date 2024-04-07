@@ -32,4 +32,7 @@ http://www.bom.gov.au/climate/dwo/ and http://www.bom.gov.au/climate/data
 - Training a logistic regression model using Scikit-learn
 - Evaluating a model using a validation set and test set
 
-## We have applied the Logistic Regression, Decision Tree, and Random Forest Model in this Project.
+## To extract as much accuracy as possible, we have used several supervised machine learning models shown below.
+1. Logistic Regression
+2. Decision Tree
+3. Random Forest Model
