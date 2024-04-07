@@ -1,5 +1,7 @@
 # Whether-Forecasting-System-Using-ML
 
+![Alt text](https://www.skymetweather.com/content/wp-content/uploads/2020/12/Weather-Forecasting-Essay-c.jpg)
+
 ### Context
 Predict next-day rain by training classification models on the target variable RainTomorrow.
 
@@ -16,4 +18,12 @@ An example of latest weather observations in Canberra: http://www.bom.gov.au/cli
 ### Data source: 
 http://www.bom.gov.au/climate/dwo/ and http://www.bom.gov.au/climate/data
 
-![Alt text](https://www.skymetweather.com/content/wp-content/uploads/2020/12/Weather-Forecasting-Essay-c.jpg)
+### The following topics are used in this project:
+
+- Exploratory data analysis and visualization
+- Splitting a dataset into training, validation & test sets
+- Filling/imputing missing values in numeric columns
+- Scaling numeric features to a (0,1) range
+- Encoding categorical columns as one-hot vectors
+- Training a logistic regression model using Scikit-learn
+- Evaluating a model using a validation set and test set
