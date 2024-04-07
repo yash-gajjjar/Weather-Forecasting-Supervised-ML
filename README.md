@@ -22,6 +22,11 @@ An example of the latest weather observations in Canberra: http://www.bom.gov.au
 ##### Data source: 
 http://www.bom.gov.au/climate/dwo/ and http://www.bom.gov.au/climate/data
 
+## To extract as much accuracy as possible, we have used several supervised machine learning models shown below.
+1. Logistic Regression
+2. Decision Tree
+3. Random Forest Model
+
 ### The following topics are used in this project:
 
 - Exploratory data analysis and visualization
@@ -35,7 +40,3 @@ http://www.bom.gov.au/climate/dwo/ and http://www.bom.gov.au/climate/data
 - Training and interpreting random forests
 - Overfitting & hyperparameter tuning
 
-## To extract as much accuracy as possible, we have used several supervised machine learning models shown below.
-1. Logistic Regression
-2. Decision Tree
-3. Random Forest Model
