@@ -4,11 +4,15 @@
 
 ![Alt text](https://www.skymetweather.com/content/wp-content/uploads/2020/12/Weather-Forecasting-Essay-c.jpg)
 
-### Context
+### Problem Statement
 Predict next-day rain by training classification models on the target variable RainTomorrow.
 
 ### Content
-This dataset contains about 10 years of daily weather observations from many locations across Australia.
+The [Rain in Australia dataset](https://kaggle.com/jsphyg/weather-dataset-rattle-package) contains about 10 years of daily weather observations from numerous Australian weather stations. Here's a small sample from the dataset:
+
+![](https://i.imgur.com/5QNJvir.png)
+
+![](https://i.imgur.com/KWfcpcO.png)
 
 RainTomorrow is the target variable to predict. It means -- did it rain the next day, Yes or No? This column is Yes if the rain for that day was 1mm or more.
 
@@ -30,12 +34,3 @@ http://www.bom.gov.au/climate/dwo/ and http://www.bom.gov.au/climate/data
 - Training a logistic regression model using Scikit-learn
 - Evaluating a model using a validation set and test set
 
-## Problem Statement
-
-we will apply _logistic regression_ to a real-world dataset from [Kaggle](https://kaggle.com/datasets):
-
-The [Rain in Australia dataset](https://kaggle.com/jsphyg/weather-dataset-rattle-package) contains about 10 years of daily weather observations from numerous Australian weather stations. Here's a small sample from the dataset:
-
-![](https://i.imgur.com/5QNJvir.png)
-
-![](https://i.imgur.com/KWfcpcO.png)
