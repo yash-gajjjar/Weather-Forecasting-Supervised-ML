@@ -1,4 +1,4 @@
-# Whether-Forecasting-System-Using-ML
+# Whether-Forecasting-System-Using-Supervised ML
 
 ## Predict next-day rain in Australia
 
