@@ -12,14 +12,14 @@ The [Rain in Australia dataset](https://kaggle.com/jsphyg/weather-dataset-rattle
 
 ![](https://i.imgur.com/5QNJvir.png)
 
-RainTomorrow is the target variable to predict. It means -- did it rain the next day, Yes or No? This column is Yes if the rain for that day was 1mm or more.
+RainTomorrow is the target variable to predict. It means -- did it rain the next day, Yes or No? 
 
-### Source & Acknowledgements
+##### Source & Acknowledgements
 Observations were drawn from numerous weather stations. The daily observations are available from http://www.bom.gov.au/climate/data.
 
-An example of latest weather observations in Canberra: http://www.bom.gov.au/climate/dwo/IDCJDW2801.latest.shtml
+An example of the latest weather observations in Canberra: http://www.bom.gov.au/climate/dwo/IDCJDW2801.latest.shtml
 
-### Data source: 
+##### Data source: 
 http://www.bom.gov.au/climate/dwo/ and http://www.bom.gov.au/climate/data
 
 ### The following topics are used in this project:
