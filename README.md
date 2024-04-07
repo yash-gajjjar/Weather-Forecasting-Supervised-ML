@@ -31,6 +31,9 @@ http://www.bom.gov.au/climate/dwo/ and http://www.bom.gov.au/climate/data
 - Encoding categorical columns as one-hot vectors
 - Training a logistic regression model using Scikit-learn
 - Evaluating a model using a validation set and test set
+- Training and interpreting decision trees
+- Training and interpreting random forests
+- Overfitting & hyperparameter tuning
 
 ## To extract as much accuracy as possible, we have used several supervised machine learning models shown below.
 1. Logistic Regression
