@@ -2,7 +2,7 @@
 
 ## Predict next-day rain in Australia
 
-![Alt text](https://www.skymetweather.com/content/wp-content/uploads/2020/12/Weather-Forecasting-Essay-c.jpg)
+![Alt text](https://i.imgur.com/KWfcpcO.png)
 
 ### Problem Statement
 Predict next-day rain by training classification models on the target variable RainTomorrow.
@@ -11,8 +11,6 @@ Predict next-day rain by training classification models on the target variable R
 The [Rain in Australia dataset](https://kaggle.com/jsphyg/weather-dataset-rattle-package) contains about 10 years of daily weather observations from numerous Australian weather stations. Here's a small sample from the dataset:
 
 ![](https://i.imgur.com/5QNJvir.png)
-
-![](https://i.imgur.com/KWfcpcO.png)
 
 RainTomorrow is the target variable to predict. It means -- did it rain the next day, Yes or No? This column is Yes if the rain for that day was 1mm or more.
 
