@@ -15,3 +15,5 @@ An example of latest weather observations in Canberra: http://www.bom.gov.au/cli
 
 ### Data source: 
 http://www.bom.gov.au/climate/dwo/ and http://www.bom.gov.au/climate/data
+
+![Alt text](https://www.skymetweather.com/content/wp-content/uploads/2020/12/Weather-Forecasting-Essay-c.jpg)
