@@ -1,4 +1,4 @@
-# Whether Forecasting System Using Supervised Machine learning 
+# Weather Forecasting System Using Supervised Machine learning 
 
 ## Predict next-day rain in Australia
 
